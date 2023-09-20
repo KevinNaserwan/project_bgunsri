@@ -1,0 +1,33 @@
+@page {
+    size: 21cm 29.7cm;
+    margin: 0;
+}
+
+.judul {
+    font-size: 16px;
+    text-align: center;
+}
+
+.kop-surat {
+    margin-top: 60px;
+}
+
+.cp {
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.div1 {
+    width: 600px;
+    height: 8px;
+    background: orange;
+    margin: 0 auto;
+}
+
+.div2 {
+    width: 600px;
+    height: 4px;
+    background: yellow;
+    margin: 0 auto;
+}
